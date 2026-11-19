@@ -1,0 +1,314 @@
+{
+ "san_martino": {
+  "query": "Ospedale Policlinico San Martino, Genova",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 76518114,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 13860217,
+    "lat": "44.4094689",
+    "lon": "8.9730883",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.3078369698940717,
+    "addresstype": "amenity",
+    "name": "Ospedale San Martino",
+    "display_name": "Ospedale San Martino, Via Angelo Scribanti, San Martino, Medio Levante, Genova, Liguria, 16132, Italia",
+    "address": {
+     "amenity": "Ospedale San Martino",
+     "road": "Via Angelo Scribanti",
+     "suburb": "San Martino",
+     "city": "Genova",
+     "county": "Genova",
+     "ISO3166-2-lvl6": "IT-GE",
+     "region": "Liguria",
+     "ISO3166-2-lvl4": "IT-42",
+     "postcode": "16132",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "44.4069904",
+     "44.4121032",
+     "8.9685064",
+     "8.9776185"
+    ]
+   }
+  ]
+ },
+ "gaslini": {
+  "query": "Ospedale Gaslini, Genova",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 76267554,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 159758027,
+    "lat": "44.3933558",
+    "lon": "8.9886498",
+    "category": "aeroway",
+    "type": "helipad",
+    "place_rank": 30,
+    "importance": 7.821850919351518e-05,
+    "addresstype": "aeroway",
+    "name": "Ospedale Gaslini",
+    "display_name": "Ospedale Gaslini, Via Giorgio Chiesa, Quarto dei Mille, Levante, Genova, Liguria, 16147, Italia",
+    "boundingbox": [
+     "44.3932417",
+     "44.3934775",
+     "8.9884827",
+     "8.9888180"
+    ]
+   }
+  ]
+ },
+ "galliera": {
+  "query": "Ospedale Galliera, Genova",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 76369006,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 74589999,
+    "lat": "44.3995250",
+    "lon": "8.9415855",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.22898814784265079,
+    "addresstype": "amenity",
+    "name": "Ospedale Galliera",
+    "display_name": "Ospedale Galliera, 8, Via Alessandro Volta, Quadrilatero, San Vincenzo, Centro Est, Genova, Liguria, 16128, Italia",
+    "address": {
+     "amenity": "Ospedale Galliera",
+     "house_number": "8",
+     "road": "Via Alessandro Volta",
+     "neighbourhood": "Quadrilatero",
+     "suburb": "San Vincenzo",
+     "city": "Genova",
+     "county": "Genova",
+     "ISO3166-2-lvl6": "IT-GE",
+     "region": "Liguria",
+     "ISO3166-2-lvl4": "IT-42",
+     "postcode": "16128",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "44.3977128",
+     "44.4014760",
+     "8.9391588",
+     "8.9428880"
+    ]
+   }
+  ]
+ },
+ "lavagna": {
+  "query": "Ospedale di Lavagna",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 76352967,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 298674062,
+    "lat": "44.3148414",
+    "lon": "9.3492316",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 5.3573662928160795e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale di Lavagna",
+    "display_name": "Ospedale di Lavagna, 25, Via Don Giovanni Battista Bobbio, Lavagna, Genova, Liguria, 16033, Italia",
+    "address": {
+     "amenity": "Ospedale di Lavagna",
+     "house_number": "25",
+     "road": "Via Don Giovanni Battista Bobbio",
+     "town": "Lavagna",
+     "county": "Genova",
+     "ISO3166-2-lvl6": "IT-GE",
+     "region": "Liguria",
+     "ISO3166-2-lvl4": "IT-42",
+     "postcode": "16033",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "44.3143163",
+     "44.3153828",
+     "9.3476854",
+     "9.3505828"
+    ]
+   }
+  ]
+ },
+ "albenga": {
+  "query": "Ospedale Santa Maria di Misericordia, Albenga",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 76577826,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 29102210,
+    "lat": "44.0549813",
+    "lon": "8.1996780",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 5.909437705038556e-05,
+    "addresstype": "amenity",
+    "name": "Santa Maria di Misericordia",
+    "display_name": "Santa Maria di Misericordia, Via Martiri della Foce, Leca, Albenga, Savona, Liguria, 17031, Italia",
+    "address": {
+     "amenity": "Santa Maria di Misericordia",
+     "road": "Via Martiri della Foce",
+     "suburb": "Leca",
+     "town": "Albenga",
+     "county": "Savona",
+     "ISO3166-2-lvl6": "IT-SV",
+     "region": "Liguria",
+     "ISO3166-2-lvl4": "IT-42",
+     "postcode": "17031",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "44.0536554",
+     "44.0558631",
+     "8.1984959",
+     "8.2010949"
+    ]
+   }
+  ]
+ },
+ "gaslini_2": {
+  "query": "Istituto Gaslini",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 76653432,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 1793933,
+    "lat": "44.4199943",
+    "lon": "8.9529535",
+    "category": "building",
+    "type": "school",
+    "place_rank": 30,
+    "importance": 7.821850919351518e-05,
+    "addresstype": "building",
+    "name": "Istituto Professionale Statale per l'Industria e l'Artigianato Gaslini-Meucci",
+    "display_name": "Istituto Professionale Statale per l'Industria e l'Artigianato Gaslini-Meucci, 5, Piazzale Paul Valery, San Pantaleo, Media Val Bisagno, Genova, Liguria, 16139, Italia",
+    "boundingbox": [
+     "44.4196588",
+     "44.4203585",
+     "8.9526177",
+     "8.9535690"
+    ]
+   }
+  ]
+ },
+ "gaslini_3": {
+  "query": "Giannina Gaslini",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 76046358,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 24660429,
+    "lat": "44.3928643",
+    "lon": "8.9880616",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.2946949388609965,
+    "addresstype": "amenity",
+    "name": "Ospedale Pediatrico Giannina Gaslini",
+    "display_name": "Ospedale Pediatrico Giannina Gaslini, Via Gerolamo Gaslini, Vernazzola, Levante, Genova, Liguria, 16147, Italia",
+    "boundingbox": [
+     "44.3912223",
+     "44.3945245",
+     "8.9862231",
+     "8.9899282"
+    ]
+   },
+   {
+    "place_id": 76419792,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5423950471,
+    "lat": "44.3934215",
+    "lon": "8.9886906",
+    "category": "tourism",
+    "type": "artwork",
+    "place_rank": 30,
+    "importance": 7.821850919351518e-05,
+    "addresstype": "tourism",
+    "name": "Giannina Gaslini, un gesto universale",
+    "display_name": "Giannina Gaslini, un gesto universale, Via Giorgio Chiesa, Quarto dei Mille, Levante, Genova, Liguria, 16147, Italia",
+    "boundingbox": [
+     "44.3933715",
+     "44.3934715",
+     "8.9886406",
+     "8.9887406"
+    ]
+   },
+   {
+    "place_id": 76028577,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 12842062272,
+    "lat": "44.4301005",
+    "lon": "8.9519470",
+    "category": "tourism",
+    "type": "artwork",
+    "place_rank": 30,
+    "importance": 7.821850919351518e-05,
+    "addresstype": "tourism",
+    "name": "Tomba Giannina Gaslini",
+    "display_name": "Tomba Giannina Gaslini, Viale Perrone, Piastra, Staglieno, Media Val Bisagno, Genova, Liguria, 16139, Italia",
+    "boundingbox": [
+     "44.4300505",
+     "44.4301505",
+     "8.9518970",
+     "8.9519970"
+    ]
+   }
+  ]
+ },
+ "gaslini_4": {
+  "query": "Via Gerolamo Gaslini 5, Genova",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 76461053,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4046627893,
+    "lat": "44.3915258",
+    "lon": "8.9883856",
+    "category": "place",
+    "type": "house",
+    "place_rank": 30,
+    "importance": 7.821850919351518e-05,
+    "addresstype": "place",
+    "name": "",
+    "display_name": "5, Via Gerolamo Gaslini, Vernazzola, Levante, Genova, Liguria, 16147, Italia",
+    "boundingbox": [
+     "44.3914758",
+     "44.3915758",
+     "8.9883356",
+     "8.9884356"
+    ]
+   }
+  ]
+ }
+}
