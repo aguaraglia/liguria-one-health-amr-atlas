@@ -11,10 +11,10 @@ In Liguria le evidenze pubblicate localizzabili sono quasi tutte cliniche,
 concentrate a Genova; non risultano studi veterinari, alimentari o ambientali
 localizzabili.
 
-Letteratura scientifica del 19 novembre 2026: 37 studi con collegamento
+Letteratura scientifica aggiornata il 20 novembre 2026: 38 studi con collegamento
 territoriale esplicito alla Liguria, in sei layer (AMR umana, veterinaria,
 alimentare, ambientale, fauna selvatica, studi a scala regionale). Il layer
-umano ha 7 elementi e 29 studi. Il contorno regionale ha 8 studi, di cui 4
+umano ha 7 elementi e 29 studi. Il contorno regionale ha 9 studi, di cui 5
 sulla fauna selvatica. I layer veterinario, alimentare, ambientale e della
 fauna selvatica sono vuoti: l'area senza segnaposto è nessuna evidenza
 pubblicata, non resistenza zero. Ogni popup cita lo studio e il DOI (o il
@@ -28,7 +28,7 @@ contributors, ODbL. A.Li.Sa. / ATS Liguria e il PDF OsMed sono esclusi: vedi
 `metadata/EXCLUDED_SOURCES.md`.
 
 Il conteggio in homepage e in pubblicazioni legge
-`public/data/literature-catalog.json` (37).
+`public/data/literature-catalog.json` (38).
 
 ## Pagine
 
