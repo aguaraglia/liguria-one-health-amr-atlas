@@ -1,0 +1,69 @@
+{
+  "edition": "lig_amr_atlas",
+  "prepared": "2026-11-20",
+  "literature_catalog_record": {
+    "id": "pubmed_36558780",
+    "year": 2022,
+    "title": "Antimicrobial Resistance of Salmonella Strains Isolated from Human, Wild Boar, and Environmental Samples in 2018-2020 in the Northwest of Italy.",
+    "authors": "Listorti V et al.",
+    "journal": "Pathogens",
+    "scope": "wildlife_amr",
+    "geographic_link": "Liguria (isolati umani da ospedali liguri, acque superficiali ARPAL, cinghiali cacciati 2018-2020). Scala: regione. Luogo verificato sul testo integrale.",
+    "pmid": "36558780",
+    "doi": "10.3390/pathogens11121446",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/36558780/"
+  },
+  "layer_assignment": {
+    "layer_id": "liguria_regional_study_outline",
+    "file": "public/data/regional_study_outline.geojson",
+    "scale": "regione",
+    "sector_curation": "fauna_selvatica",
+    "scope": "wildlife_amr",
+    "organism": "Salmonella spp. (isolati umani, acque superficiali, cinghiali)",
+    "feature_card": {
+      "id": "pubmed_36558780",
+      "authors": "Listorti V et al.",
+      "year": "2022",
+      "title": "Antimicrobial Resistance of Salmonella Strains Isolated from Human, Wild Boar, and Environmental Samples in 2018-2020 in the Northwest of Italy",
+      "sector": "AMR nella fauna selvatica",
+      "organism": "Salmonella spp. (isolati umani, acque superficiali, cinghiali)",
+      "doi": "https://doi.org/10.3390/pathogens11121446",
+      "feature": "Liguria (regione), study_count 8 -> 9"
+    },
+    "rationale": "Lo studio dichiara solo la Liguria: 264 isolati umani da ospedali liguri non nominati, 193 da acque superficiali conferite da ARPAL senza siti nominati, 60 da fegati di cinghiali cacciati nel piano di sorveglianza regionale. Nessun comune, provincia o struttura: contorno regionale. Settore fauna_selvatica per coerenza con Razzuoli 2021 e Modesto 2021; layer umano e ambientale invariati perché non localizzabile sotto la regione."
+  },
+  "geocoding": {
+    "method": "poligono ISTAT Reg01012026_g, regione 07 Liguria (atlas_region.geojson)",
+    "nominatim": "nessuna query: nessuna struttura nominata (IZSPLV Torino e ARPAL sono conferitori/analisi, non luoghi di campionamento)",
+    "point": null
+  },
+  "verification": {
+    "pmid": "esummary, titolo 1.00",
+    "doi": "10.3390/pathogens11121446 risolto da doi.org",
+    "crossref_title_ratio": 1.0,
+    "fulltext": "PMC9787983 Europe PMC fullTextXML, 2026-11-20 (raw/36558780_PMC9787983.xml)"
+  },
+  "curation_csv_row": {
+    "pmid": "36558780",
+    "doi": "10.3390/pathogens11121446",
+    "year": "2022",
+    "first_author": "Listorti",
+    "title": "Antimicrobial Resistance of Salmonella Strains Isolated from Human, Wild Boar, and Environmental Samples in 2018-2020 in the Northwest of Italy.",
+    "sector": "fauna_selvatica",
+    "scale": "regione",
+    "place": "Liguria (isolati umani da ospedali liguri, acque superficiali ARPAL, cinghiali cacciati 2018-2020)",
+    "decision": "include",
+    "reason": "Integrazione 2026-11-20: titolo generico («Northwest of Italy») ma abstract e testo integrale dichiarano 517 ceppi di Salmonella raccolti in Liguria 2018-2020 (264 umani da ospedali liguri non nominati, 193 da acque superficiali conferite da ARPAL, 60 da fegati di cinghiale); esito AMR. Sfuggito allo scoping Liguria del 2026-11-19, emerso nello scoping Valle d'Aosta.",
+    "fulltext_check": "PMC9787983 (Europe PMC fullTextXML, 2026-11-20): «A total of 517 Salmonella specimens were collected in 2018–2020 in Liguria»; nessun comune, provincia o struttura nominata.",
+    "pmid_verified": "si",
+    "doi_verified": "si (Crossref 1.00)"
+  },
+  "counts_after": {
+    "records": 143,
+    "include": 38,
+    "dubbio": 28,
+    "exclude": 77,
+    "regional_outline_studies": 9,
+    "wildlife_studies_regional": 5
+  }
+}

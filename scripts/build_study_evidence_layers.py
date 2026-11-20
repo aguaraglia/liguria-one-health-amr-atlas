@@ -45,7 +45,7 @@ ORGANISM = {
     "pubmed_29600324": "gestione di Enterobacterales ESBL (toolkit)", "pubmed_30988332": "Salmonella 1,4,[5],12:i:- multiresistente (stenelle)",
     "pubmed_32490767": "stafilococchi meticillino-resistenti (infezioni protesiche)", "pubmed_33021597": "uropatogeni in oncologia pediatrica",
     "pubmed_33401591": "Gram-negativi resistenti ai carbapenemi", "pubmed_33801613": "Yersinia enterocolitica (cinghiali)",
-    "pubmed_34067207": "Salmonella spp. (cinghiali)", "pubmed_35690266": "Enterobacterales resistenti ai carbapenemi (screening)",
+    "pubmed_34067207": "Salmonella spp. (cinghiali)", "pubmed_36558780": "Salmonella spp. (isolati umani, acque superficiali, cinghiali)", "pubmed_35690266": "Enterobacterales resistenti ai carbapenemi (screening)",
     "pubmed_35740127": "patogeni urinari pediatrici resistenti", "pubmed_36710161": "DDD pediatrica (vancomicina e altri)",
     "pubmed_36830127": "farmaci anti-MRSA nelle batteriemie pediatriche", "pubmed_37627698": "batteri da terapia intensiva",
     "pubmed_38186699": "Enterobacterales resistenti ai carbapenemi (colonizzazione)", "pubmed_38360651": "batteri da neutropenia febbrile (WISCA)",
@@ -129,7 +129,7 @@ def main():
         "Gli autori dichiarano un ospedale di Genova senza nominarlo: si usa il poligono ISTAT del comune.")
     add("human", P("28668656"), prov["Genova"], "Città metropolitana di Genova", "provincia",
         "Tre principali ospedali per acuti dell'area metropolitana di Genova, non nominati: poligono ISTAT della Città metropolitana.")
-    add("regional", P("29253622", "29273072", "29600324", "22418605", "30988332", "33801613", "34067207", "39057803"),
+    add("regional", P("29253622", "29273072", "29600324", "22418605", "30988332", "33801613", "34067207", "36558780", "39057803"),
         region, "Liguria", "regione",
         "Gli autori dichiarano la Liguria, ospedali o distretti non nominati, o campioni di fauna raccolti in regione senza scala più fine. Il contorno regionale non è un punto di misura.")
 
